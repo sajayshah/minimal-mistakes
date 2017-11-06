@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "dark" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en"
@@ -76,18 +76,18 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-109558179-1
 
 
 # Site Author
 author:
   name             : "Sajay Shah"
-  avatar           : "assets/images/bio-photo.jpg"
+  avatar           : "assets/images/bio-photo.JPG"
   bio              : "Software Engineer, Technology Dreamer, Some Cool Sounding Third Thing"
   location         : "San Francisco Bay Area"
-  email            : shahsajay@gmail.com
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
